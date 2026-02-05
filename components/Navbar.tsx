@@ -27,9 +27,13 @@ const Navbar: React.FC = () => {
           ))}
         </div>
 
-        <button className="px-6 py-2 border border-white text-xs font-bold tracking-widest uppercase hover:bg-white hover:text-black transition-all duration-300">
+        
+        <a href="https://lz.qaiu.top/lz/iY8Kk3hv4p6h@1o7b" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="px-6 py-2 border border-white text-xs font-bold tracking-widest uppercase hover:bg-white hover:text-black transition-all duration-300">
           下载 App
-        </button>
+        </a>
       </div>
     </nav>
   );

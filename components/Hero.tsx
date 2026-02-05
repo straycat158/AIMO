@@ -31,9 +31,13 @@ const Hero: React.FC = () => {
 
           <Reveal delay={0.6}>
              <div className="flex flex-col md:flex-row gap-4 items-start">
-               <button className="bg-white text-black px-8 py-4 text-sm font-bold tracking-widest uppercase hover:bg-neutral-200 transition-colors w-full md:w-auto">
+               <a 
+               href="https://lz.qaiu.top/lz/iY8Kk3hv4p6h@1o7b" 
+               target="_blank" 
+               rel="noopener noreferrer"
+               className="bg-white text-black px-8 py-4 text-sm font-bold tracking-widest uppercase hover:bg-neutral-200 transition-colors w-full md:w-auto">
                  立即体验
-               </button>
+               </a>
                <button className="border border-neutral-700 text-white px-8 py-4 text-sm font-bold tracking-widest uppercase hover:border-white transition-colors w-full md:w-auto">
                  了解更多
                </button>
