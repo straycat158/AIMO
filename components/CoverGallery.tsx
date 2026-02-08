@@ -4,19 +4,19 @@ import { Reveal } from './Reveal';
 const CoverGallery: React.FC = () => {
   const screenshots = [
     { 
-      src: "https://picsum.photos/450/900?grayscale&random=20", 
+      src: "/img/1.jpg", 
       title: "沉浸播放页", 
       desc: "Immersive Player",
       detail: "全屏封面艺术，无干扰的控制布局"
     },
     { 
-      src: "https://picsum.photos/450/900?grayscale&random=21", 
+      src: "/img/2.jpg", 
       title: "灵感歌单", 
       desc: "Curated Playlists",
       detail: "AI 驱动的智能推荐流"
     },
     { 
-      src: "https://picsum.photos/450/900?grayscale&random=22", 
+      src: "/img/3.jpg", 
       title: "极致设置", 
       desc: "Pro Settings",
       detail: "自定义均衡器与黑胶参数"
