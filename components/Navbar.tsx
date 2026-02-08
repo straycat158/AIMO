@@ -27,7 +27,7 @@ const Navbar: React.FC = () => {
           ))}
         </div>
 
-        <a href="https://lz.qaiu.top/lz/iiXjB3i2pina@gmbo" 
+        <a href="https://lz.qaiu.top/lz/iOEBu3i2upkj@hge7" 
         target="_blank" 
         rel="noopener noreferrer"
         className="px-6 py-2 border border-white text-xs font-bold tracking-widest uppercase hover:bg-white hover:text-black transition-all duration-300">
