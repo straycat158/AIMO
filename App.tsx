@@ -5,6 +5,7 @@ import PlayerPreview from './components/PlayerPreview';
 import Features from './components/Features';
 import StorySection from './components/StorySection';
 import CoverGallery from './components/CoverGallery';
+import Changelog from './components/Changelog';
 import Footer from './components/Footer';
 
 const App: React.FC = () => {
@@ -38,6 +39,7 @@ const App: React.FC = () => {
         <StorySection />
         <CoverGallery />
         <Features />
+        <Changelog />
       </main>
       <Footer />
     </div>
