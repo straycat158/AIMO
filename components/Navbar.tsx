@@ -27,7 +27,7 @@ const Navbar: React.FC = () => {
           ))}
         </div>
 
-        <a href="https://lz.qaiu.top/lz/iOEBu3i2upkj@hge7" 
+        <a href="https://m008.lanosso.com:446/02221400275442880bb/2026/02/22/9b9e962b27152bc57c2b1d66da4801f1.apk?st=IqVDORYwNr2lj216zBMdJg&e=1771744224&b=U_blZ0AW7BOlQi1WoVewEnwXjXeUDu1fBUV0KN1x1AjAIdFxqAC4AZFN2UG0_c&fi=275442880&pid=183-223-83-109&up=2&mp=1&co=0" 
         target="_blank" 
         rel="noopener noreferrer"
         className="px-6 py-2 border border-white text-xs font-bold tracking-widest uppercase hover:bg-white hover:text-black transition-all duration-300">

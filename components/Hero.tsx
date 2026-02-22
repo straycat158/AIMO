@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
           <Reveal delay={0.6}>
              <div className="flex flex-col md:flex-row gap-4 items-start">
                <a 
-               href="https://lz.qaiu.top/lz/iOEBu3i2upkj@hge7" 
+               href="https://m008.lanosso.com:446/02221400275442880bb/2026/02/22/9b9e962b27152bc57c2b1d66da4801f1.apk?st=IqVDORYwNr2lj216zBMdJg&e=1771744224&b=U_blZ0AW7BOlQi1WoVewEnwXjXeUDu1fBUV0KN1x1AjAIdFxqAC4AZFN2UG0_c&fi=275442880&pid=183-223-83-109&up=2&mp=1&co=0" 
                target="_blank" 
                rel="noopener noreferrer"
                className="bg-white text-black px-8 py-4 text-sm font-bold tracking-widest uppercase hover:bg-neutral-200 transition-colors w-full md:w-auto">
